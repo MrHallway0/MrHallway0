@@ -1,2 +1,2 @@
-### HI!
-Hello there! I'm MrHallway0, you know the person who's profile you're looking at... Please check out my Special Page mrhallway0.github.io!
+Medium: https://medium.com/@dhall70809
+My Website: https://mrhallway0.github.io
