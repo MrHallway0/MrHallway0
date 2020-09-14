@@ -1,2 +1,2 @@
-Medium: https://medium.com/@dhall70809
+Medium: https://medium.com/@MrHallway
 My Website: https://mrhallway0.github.io
