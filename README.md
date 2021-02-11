@@ -4,4 +4,4 @@
 
 
 ### Links 
-<a href=https://medium.com/@MrHallway>Medium</a> <a href=https://mrhallway.me>Website</a> <a href=https://mrhallway.me/dl>Downloads</a>
+<a href=https://medium.com/@MrHallway>Medium</a> - <a href=https://mrhallway.me>Website</a> - <a href=https://mrhallway.me/dl>Downloads</a>
