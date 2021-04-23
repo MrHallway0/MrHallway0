@@ -10,4 +10,4 @@
 <a href="https://stackoverflow.com/users/15503133/mr-hallway"><img src="https://stackoverflow.com/users/flair/15503133.png" width="208" height="58" alt="profile for Mr. Hallway at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mr. Hallway at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ### Links 
-<a href=https://medium.com/@MrHallway>Medium</a> - <a href=https://mrhallway.me>Website</a> - <a href=https://mrhallway.me/dl>Downloads</a>
+<a href=https://medium.com/@MrHallway>Medium</a> - <a href=https://home.mrhallway.me>Website</a> - <a href=https://mrhallway.me/dl>Downloads</a>
