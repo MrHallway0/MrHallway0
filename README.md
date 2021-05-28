@@ -12,10 +12,3 @@
 
 ### Links 
 <a href=https://medium.com/@MrHallway>Medium</a> - <a href=https://home.mrhallway.me>Website</a> - <a href=https://dl.mrhallway.me/>Downloads</a> - <a href=https://mrhallwaybb.createmybb4.com/>Forum</a> - <a href=https://tilde.club/~mrhallway/>Tilde site</a> - <a href=https://twitter.com/mrhallway0>Twitter</a>
-
-### Contact me
-#### Email*
- - [mrhallway@tilde.club](mailto:mrhallway@tilde.club)
- - [MrHallway@protonmail.com](mailto:MrHallway@protonmail.com)
-
-**These are my public facing emails and it may take a while for me to respond.*
