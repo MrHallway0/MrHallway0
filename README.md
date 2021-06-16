@@ -1,4 +1,4 @@
-## ![Hand](tenor-hand.gif) Hey, check out my [website](https://home.mrhallway.me) too!
+## ![Hand](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif) Hey, check out my [website](https://home.mrhallway.me) too!
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhallway0&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhallway0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
